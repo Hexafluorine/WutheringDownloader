@@ -1,5 +1,5 @@
 # WutheringDownloader
-A Simple C# Program To Download Wuthering Waves Game Data
+A Simple C# Program To Download Wuthering Waves Client
 
 Working versions: 0.7 - 2.0 beta
 
